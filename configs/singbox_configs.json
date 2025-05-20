@@ -79,10 +79,10 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-9dfbe0e0 (United States)",
-        "🇺🇦 hysteria2-a098bbc8 (Ukraine)",
-        "🇮🇹 hysteria2-16fa8137 (Italy)",
-        "🇷🇺 hysteria2-eef4bc21 (Russia)",
+        "🇺🇸 hysteria2-98b63fc3 (United States)",
+        "🇺🇦 hysteria2-e5f1fa93 (Ukraine)",
+        "🇮🇹 hysteria2-2a7bfd63 (Italy)",
+        "🇷🇺 hysteria2-0124bf09 (Russia)",
         "direct"
       ]
     },
@@ -90,10 +90,10 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-9dfbe0e0 (United States)",
-        "🇺🇦 hysteria2-a098bbc8 (Ukraine)",
-        "🇮🇹 hysteria2-16fa8137 (Italy)",
-        "🇷🇺 hysteria2-eef4bc21 (Russia)"
+        "🇺🇸 hysteria2-98b63fc3 (United States)",
+        "🇺🇦 hysteria2-e5f1fa93 (Ukraine)",
+        "🇮🇹 hysteria2-2a7bfd63 (Italy)",
+        "🇷🇺 hysteria2-0124bf09 (Russia)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -105,7 +105,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-9dfbe0e0 (United States)",
+      "tag": "🇺🇸 hysteria2-98b63fc3 (United States)",
       "server": "107.172.235.75",
       "server_port": 22262,
       "password": "4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
@@ -117,7 +117,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-a098bbc8 (Ukraine)",
+      "tag": "🇺🇦 hysteria2-e5f1fa93 (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 58944,
       "password": "4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
@@ -129,7 +129,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-16fa8137 (Italy)",
+      "tag": "🇮🇹 hysteria2-2a7bfd63 (Italy)",
       "server": "23.132.228.217",
       "server_port": 38746,
       "password": "4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
@@ -141,9 +141,9 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-eef4bc21 (Russia)",
+      "tag": "🇷🇺 hysteria2-0124bf09 (Russia)",
       "server": "85.235.205.212",
-      "server_port": 56410,
+      "server_port": 55182,
       "password": "4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1",
       "tls": {
         "enabled": true,
